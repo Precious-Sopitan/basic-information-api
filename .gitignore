@@ -1,5 +1,2 @@
 # Add node modules here to prevent it from being pushed to github
 node_modules/
-
-# Add .env file here to prevent sending important information to github
-.env/
